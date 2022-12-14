@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CRMTEST/static/css/main.48ad05ce.css",
+    "main.js": "/CRMTEST/static/js/main.54aed4ce.js",
+    "static/js/787.856a2c82.chunk.js": "/CRMTEST/static/js/787.856a2c82.chunk.js",
+    "index.html": "/CRMTEST/index.html",
+    "main.48ad05ce.css.map": "/CRMTEST/static/css/main.48ad05ce.css.map",
+    "main.54aed4ce.js.map": "/CRMTEST/static/js/main.54aed4ce.js.map",
+    "787.856a2c82.chunk.js.map": "/CRMTEST/static/js/787.856a2c82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48ad05ce.css",
+    "static/js/main.54aed4ce.js"
+  ]
+}
